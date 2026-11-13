@@ -1,0 +1,2 @@
+sawaddee kub
+Hello from client.py
